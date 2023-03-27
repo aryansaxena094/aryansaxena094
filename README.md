@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hello!
+As a software developer, computer science student and former cloud engineer, I'm a jack-of-all-trades when it comes to coding and tech. From Java to Azure, I know my way around a variety of programming languages and platforms. And with three Microsoft certifications under my belt, I'm the certified expert you're looking for. But it's not just my technical skills that set me apart - I'm also a strong communicator and active member of my community. So whether you need someone to fix your code or give a rousing speech at your next company retreat, I'm your guy. Let's connect and see what we can accomplish together.
+
+## 💫 About Me:
 🏠   Based out of Montreal.<br>🎓   Current pursuing Masters at Concordia University<br>🛠   At the moment working with NodeJS, Java, React, Express, Azure.<br>👀   What I want to learn: TypeScript<br>📫   How to reach me: linkedin.com/aryansaxena094 or aryan.saxena094@gmail.com
 
 
