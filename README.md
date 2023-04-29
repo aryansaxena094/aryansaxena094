@@ -5,10 +5,9 @@ As a software developer, computer science student and former cloud engineer, I'm
 # 💫 About Me:
 🏠 Based out of Montreal.<br>
 🎓 Currently pursuing Masters at Concordia University<br>
-🛠 At the moment working with NodeJS, Java, React, Express, Azure.<br>
-👀 What I want to learn: TypeScript<br>
+🛠 At the moment working with Angular, TypeScript, Java, React, Azure.<br>
+👀 What I want to learn: **Fortran**<br>
 📫 How to reach me: linkedin.com/aryansaxena094 or aryan.saxena094@gmail.com
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryan#8217) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aryan.saxena094) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan5axena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansaxena094) 
