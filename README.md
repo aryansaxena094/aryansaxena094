@@ -6,7 +6,7 @@ As a software developer, computer science student and former cloud engineer, I'm
 🏠 Based out of Montreal.<br>
 🎓 Currently pursuing Masters at Concordia University<br>
 🛠 At the moment working with Angular, TypeScript, Java, React, Azure.<br>
-👀 What I want to learn: **Fortran**<br>
+👀 What I want to learn: **Fortran** 🥴<br>
 📫 How to reach me: linkedin.com/aryansaxena094 or aryan.saxena094@gmail.com
 
 ## 🌐 Socials:
