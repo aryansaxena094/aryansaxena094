@@ -6,9 +6,8 @@ As a software developer, computer science student and former cloud engineer, I'm
 🏠 Based out of Montreal.<br>
 🎓 Currently pursuing Masters at Concordia University<br>
 🛠 At the moment working with Angular, TypeScript, Java, React, Azure.<br>
-<details> <summary>👀 What I want to learn: LOLCODE 🥴</summary>
-<img width="662" alt="image" src="https://github.com/aryansaxena094/aryansaxena094/assets/67198463/753ab8b5-3430-43e5-ba45-26ee0c8be256"></details>
-<br>📫 How to reach me: linkedin.com/aryansaxena094 or aryan.saxena094@gmail.com
+👀 What I want to learn: LOLCODE 🥴<br>
+📫 How to reach me: linkedin.com/aryansaxena094 or aryan.saxena094@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryan#8217) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aryan.saxena094) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan5axena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansaxena094) 
