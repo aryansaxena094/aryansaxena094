@@ -1,6 +1,7 @@
 # namaste fellow nerds, welcome to my devspace!
 
-As a software developer, computer science student and former cloud engineer, I'm a jack-of-all-trades when it comes to coding and tech. From Java to Azure, I know my way around a variety of programming languages and platforms. And with three Microsoft certifications under my belt, I'm the certified expert you're looking for. But it's not just my technical skills that set me apart - I'm also a strong communicator and active member of my community. So whether you need someone to fix your code or give a rousing speech at your next company retreat, I'm your guy. Let's connect and see what we can accomplish together.
+👋 Hi, I'm Aryan! I'm currently a Software Developer at Intact and a Masters in CS student at Concordia. 🎓 Originating from New Delhi, India, I've also worked as a Cloud Engineer and hold 3 Azure certifications. 🌐 From startups to Fortune 500s like Ericsson and Insight, I bring diverse tech experience. 💻 Passionate about coding and an extrovert at heart, I'm always up for a good conversation or a challenging project. 🚀 Let's connect!
+
 
 # 💫 About Me:
 🏠 Based out of Montreal.<br>
