@@ -1,4 +1,4 @@
-# Welcome to my devspace!
+## Welcome to my devspace!
 👋 Hi, I'm Aryan! I'm currently a Software Developer at Intact and a Masters in CS student at Concordia. 🎓 Originating from New Delhi, India, I've also worked as a Cloud Engineer and hold 3 Azure certifications. 🌐 From startups to Fortune 500s like Ericsson and Insight, I bring diverse tech experience. 💻 Passionate about coding and an extrovert at heart, I'm always up for a good conversation or a challenging project. 🚀 Let's connect!
 
 <img align="right" height="350" width="350" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"  />
