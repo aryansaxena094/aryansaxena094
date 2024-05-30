@@ -5,8 +5,8 @@ Innovative and versatile software engineer with a Master's degree in Computer Sc
 <img align="right" height="350" width="350" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"  />
 
 ## 💫 About Me:
-📍 **Location**: Canada<br>👨‍💻 
-🌿 **Currently Mastering**: Java Spring Boot for back-end development<br>
+📍 **Location**: Canada<br>
+👨‍💻 **Currently Mastering**: Java Spring Boot for back-end development<br>
 🤝 **Open to Collaborate**: Deep learning projects<br>
 🎓 **Education**: Master of Applied Computer Science, Concordia University<br>
 📬 **Contact Me**: LinkedIn or via email at aryan.saxena094@gmail.com
