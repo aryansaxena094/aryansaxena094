@@ -1,13 +1,12 @@
 # Welcome to my devspace!
-Innovative and versatile software engineer with a Master's degree in Computer Science from Concordia University and substantial hands-on experience in full lifecycle web-based solution development. My background includes roles such as a Software Developer at Intact Insurance and a Cloud Data Engineer at Insight Enterprises, supplemented by early experience in a dynamic startup environment. I am proficient in designing, developing, testing, documenting, and deploying software products across diverse industries. Additionally, I hold three Azure certifications, which underpin my strong foundation in cloud technologies. Passionate about coding, I thrive on solving complex problems and ensuring the security and quality of software solutions.
+Life's been nothing short of a dream. I love coding and I'm lucky to do it as my job every day. <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansaxena094) 
 
 <img align="right" height="350" width="350" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"  />
 
 ## 💫 About Me:
-📍 **Location**: Canada<br>
+📍 **Location**: Toronto, ON, Canada<br>
 🤝 **Open to Collaborate**: Deep learning projects<br>
-🎓 **Education**: Master of Applied Computer Science, Concordia University<br>
 📬 **Contact Me**: LinkedIn or via email at aryan.saxena094@gmail.com
 
 ## 💻 Tech Stack:
