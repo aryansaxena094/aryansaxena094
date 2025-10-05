@@ -1,5 +1,5 @@
 # Welcome to my devspace!
-Life's been nothing short of a dream. I love coding and I'm lucky to do it as my job every day. <br>
+I love solving self created problems and I'm lucky to do it as my job every day. <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansaxena094) 
 
 <img align="right" height="350" width="350" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"  />
